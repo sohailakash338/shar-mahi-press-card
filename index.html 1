@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Multan Express</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<h1>DAILY MULTAN EXPRESS</h1>
+<p>سچ کی رفتار</p>
+</header>
+
+<main>
+<h2>خوش آمدید</h2>
+<p>یہ ڈیلی ملتان ایکسپریس کی نمونہ ویب سائٹ ہے۔</p>
+
+<h3>ادارے کی معلومات</h3>
+<p>یہاں آپ ادارے، نمائندگان، پریس کارڈ ویریفکیشن اور رابطہ معلومات شامل کر سکتے ہیں۔</p>
+
+<h3>پریس کارڈ ویریفکیشن</h3>
+<p>اس صفحے کو QR کوڈ کے ساتھ منسلک کیا جا سکتا ہے۔</p>
+</main>
+
+<footer>
+<p>© Daily Multan Express</p>
+</footer>
+</body>
+</html>
