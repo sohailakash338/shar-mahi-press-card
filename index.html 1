@@ -1,30 +1,73 @@
-<!DOCTYPE html>
-<html lang="ur" dir="rtl">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Daily Multan Express</title>
-<link rel="stylesheet" href="style.css">
-</head>
-<body>
-<header>
-<h1>DAILY MULTAN EXPRESS</h1>
-<p>سچ کی رفتار</p>
-</header>
+<div class="section">
 
-<main>
-<h2>خوش آمدید</h2>
-<p>یہ ڈیلی ملتان ایکسپریس کی نمونہ ویب سائٹ ہے۔</p>
+<!-- ٹائٹل - اردو بڑا، انگلش چھوٹا -->
+<h2 style="text-align:center; line-height:1.4; margin-bottom:25px;">
+<span style="font-size:28px; color:#b30000; font-weight:700; display:block;">نیا ایکسپریس میڈیا گروپ</span>
+<span style="font-size:18px; color:#555; font-weight:500; display:block; margin-top:5px;">VERIFICATION PORTAL</span>
+</h2>
 
-<h3>ادارے کی معلومات</h3>
-<p>یہاں آپ ادارے، نمائندگان، پریس کارڈ ویریفکیشن اور رابطہ معلومات شامل کر سکتے ہیں۔</p>
+<!-- کارڈ تصویر باکس - فرنٹ + بیک دونوں -->
+<div style="max-width:800px; margin:0 auto 30px auto; display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
+  
+  <!-- فرنٹ سائیڈ -->
+  <div style="flex:1 1 380px; padding:12px; background:#fff5f5; border:3px solid #b30000; border-radius:12px; box-shadow:0 4px 15px rgba(179,0,0,0.2);">
+    <p style="text-align:center; margin:0 0 8px 0; font-weight:700; color:#b30000; font-size:16px;">فرنٹ سائیڈ</p>
+    <img src="attachment://0" alt="Press Card Front" style="width:100%; height:auto; border-radius:8px; display:block;">
+  </div>
 
-<h3>پریس کارڈ ویریفکیشن</h3>
-<p>اس صفحے کو QR کوڈ کے ساتھ منسلک کیا جا سکتا ہے۔</p>
-</main>
+  <!-- بیک سائیڈ -->
+  <div style="flex:1 1 380px; padding:12px; background:#fff5f5; border:3px solid #b30000; border-radius:12px; box-shadow:0 4px 15px rgba(179,0,0,0.2);">
+    <p style="text-align:center; margin:0 0 8px 0; font-weight:700; color:#b30000; font-size:16px;">بیک سائیڈ</p>
+    <img src="attachment://1" alt="Press Card Back" style="width:100%; height:auto; border-radius:8px; display:block;">
+  </div>
 
-<footer>
-<p>© Daily Multan Express</p>
-</footer>
-</body>
-</html>
+</div>
+
+<!-- کارڈ کی مکمل ڈیٹیل -->
+<div style="max-width:600px; margin:0 auto; background:#f8f9fa; padding:25px; border-radius:10px; border-right:4px solid #b30000; box-shadow:0 2px 10px rgba(0,0,0,0.05);">
+
+<h3 style="text-align:center; color:#b30000; font-size:22px; margin-bottom:20px; font-weight:700;">CARD DETAILS</h3>
+
+<p style="margin-bottom:12px; font-size:18px; padding:8px 0; border-bottom:1px dashed #e0e0e0;"><strong>PRESS CARD NUMBER:</strong> RML-300-02-26</p>
+
+<p style="margin-bottom:12px; font-size:18px; padding:8px 0; border-bottom:1px dashed #e0e0e0;"><strong>NAME:</strong> Ghulam Raza Goraya</p>
+
+<p style="margin-bottom:12px; font-size:18px; padding:8px 0; border-bottom:1px dashed #e0e0e0;"><strong>CNIC:</strong> 33202-3211081-7</p>
+
+<p style="margin-bottom:12px; font-size:18px; padding:8px 0; border-bottom:1px dashed #e0e0e0;"><strong>DESIGNATION:</strong> Chief Editor / CEO</p>
+
+<p style="margin-bottom:12px; font-size:18px; padding:8px 0; border-bottom:1px dashed #e0e0e0;"><strong>NEWSPAPER:</strong> روزنامہ معاشرہ لاہور</p>
+
+<p style="margin-bottom:12px; font-size:18px; padding:8px 0; border-bottom:1px dashed #e0e0e0;"><strong>CITY:</strong> Lahore</p>
+
+<p style="margin-bottom:12px; font-size:18px; padding:8px 0; border-bottom:1px dashed #e0e0e0;"><strong>PHONE:</strong> 0346-7792566</p>
+
+<p style="margin-bottom:12px; font-size:18px; padding:8px 0; border-bottom:1px dashed #e0e0e0;"><strong>ISSUE DATE:</strong> 06/06/2022</p>
+
+<p style="margin-bottom:20px; font-size:18px; padding:8px 0;"><strong>VALID UNTIL:</strong> 06/06/2027</p>
+
+<!-- Verified Status -->
+<div style="background:linear-gradient(135deg, #28a745 0%, #1e7e34 100%); color:#fff; text-align:center; padding:15px; border-radius:8px; font-size:22px; font-weight:700; margin-top:20px; box-shadow:0 3px 10px rgba(40,167,69,0.3);">
+✓ CARD IS VERIFIED
+</div>
+
+</div>
+
+<br>
+
+<!-- فیچرز لسٹ -->
+<ul class="feature-list" style="max-width:600px; margin:30px auto; padding:0; list-style:none; display:grid; grid-template-columns:repeat(2, 1fr); gap:10px;">
+<li style="background:#fff5f5; padding:12px; border-radius:8px; border-left:3px solid #b30000;">✓ Press Card Verification</li>
+<li style="background:#fff5f5; padding:12px; border-radius:8px; border-left:3px solid #b30000;">✓ Reporter Profile Verification</li>
+<li style="background:#fff5f5; padding:12px; border-radius:8px; border-left:3px solid #b30000;">✓ Bureau Information</li>
+<li style="background:#fff5f5; padding:12px; border-radius:8px; border-left:3px solid #b30000;">✓ District & Tehsil Details</li>
+<li style="background:#fff5f5; padding:12px; border-radius:8px; border-left:3px solid #b30000;">✓ Active / Expired Status</li>
+<li style="background:#fff5f5; padding:12px; border-radius:8px; border-left:3px solid #b30000;">✓ Official QR Verification</li>
+<li style="background:#fff5f5; padding:12px; border-radius:8px; border-left:3px solid #b30000;">✓ Instant Online Verification</li>
+<li style="background:#fff5f5; padding:12px; border-radius:8px; border-left:3px solid #b30000;">✓ Secure Digital Database</li>
+</ul>
+
+<!-- ویریفکیشن ہدایات -->
+<div style="max-width:600px; margin:30px auto 0 auto; background:#fff5f5; padding:20px; border-radius:10px; border-left:4px solid #b30000;">
+<h4 style="color:#b30000; font-size:18px; margin-bottom:12px; font-weight:700;">VERIFICATION PORTAL - تصدیقی ہدایات:</h4>
+<ol style="margin:0; padding
