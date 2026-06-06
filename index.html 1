@@ -12,13 +12,13 @@
   <!-- فرنٹ سائیڈ -->
   <div style="flex:1 1 380px; padding:12px; background:#fff5f5; border:3px solid #b30000; border-radius:12px; box-shadow:0 4px 15px rgba(179,0,0,0.2);">
     <p style="text-align:center; margin:0 0 8px 0; font-weight:700; color:#b30000; font-size:16px;">فرنٹ سائیڈ</p>
-    <img src="attachment://0" alt="Press Card Front" style="width:100%; height:auto; border-radius:8px; display:block;">
+    <img src="RML-300-02-26-front.jpg" alt="Press Card Front" style="width:100%; height:auto; border-radius:8px; display:block;">
   </div>
 
   <!-- بیک سائیڈ -->
   <div style="flex:1 1 380px; padding:12px; background:#fff5f5; border:3px solid #b30000; border-radius:12px; box-shadow:0 4px 15px rgba(179,0,0,0.2);">
     <p style="text-align:center; margin:0 0 8px 0; font-weight:700; color:#b30000; font-size:16px;">بیک سائیڈ</p>
-    <img src="attachment://1" alt="Press Card Back" style="width:100%; height:auto; border-radius:8px; display:block;">
+    <img src="RML-300-02-26-back.jpg" alt="Press Card Back" style="width:100%; height:auto; border-radius:8px; display:block;">
   </div>
 
 </div>
@@ -70,4 +70,14 @@
 <!-- ویریفکیشن ہدایات -->
 <div style="max-width:600px; margin:30px auto 0 auto; background:#fff5f5; padding:20px; border-radius:10px; border-left:4px solid #b30000;">
 <h4 style="color:#b30000; font-size:18px; margin-bottom:12px; font-weight:700;">VERIFICATION PORTAL - تصدیقی ہدایات:</h4>
-<ol style="margin:0; padding
+<ol style="margin:0; padding-right:20px; line-height:1.8; font-size:16px;">
+<li>اس کارڈ کا اسٹیٹس "VERIFIED" ہے۔ ڈیٹا بیس میں تصدیق شدہ ہے</li>
+<li>کارڈ نمبر RML-300-02-26 نیا ایکسپریس میڈیا گروپ کے سرکاری ریکارڈ میں موجود ہے</li>
+<li>نام اور CNIC کی تصدیق مکمل ہو چکی ہے - اسٹیٹس Active ہے</li>
+<li>کارڈ کی معیاد 06/06/2027 تک ہے</li>
+<li>کوئی بھی مشکوک کارڈ اس پورٹل پر "NOT VERIFIED" شو ہو گا</li>
+</ol>
+<p style="margin-top:12px; font-size:14px; color:#666; font-style:italic;">نوٹ: یہ تصدیق صرف نیا ایکسپریس میڈیا گروپ ویریفکیشن پورٹل کی طرف سے جاری کی گئی ہے۔</p>
+</div>
+
+</div>
